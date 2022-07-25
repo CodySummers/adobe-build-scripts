@@ -1,0 +1,25 @@
+{
+  "name": "adobe-build-scripts",
+  "version": "0.0.1",
+  "description": "Build scripts for typescript to .jsx for Adobe Creative Suite",
+  "bin": {
+    "adobe-build-scripts": "./bin/hostapps.js",
+    "adobe-build-release": "./bin/jsxbin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodySummers/adobe_typescript_build-scripts.git"
+  },
+  "author": "Greg W",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodySummers/adobe_typescript_build-scripts/issues"
+  },
+  "homepage": "https://github.com/CodySummers/adobe_typescript_build-scripts#readme",
+  "dependencies": {
+    "jsxbin": "^2.2.0"
+  }
+}
