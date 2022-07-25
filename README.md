@@ -1,2 +1,2 @@
-# adobe_typescript_buid-scripts
+# adobe-build-scripts
 Build scripts for typescript to .jsx for adobe creative suite
